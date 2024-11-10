@@ -14,7 +14,7 @@ library(flextable)
 library(officer)
 
 #######################################################
-setwd("C:\\aaa_lavori\\lav_campionamenti")
+setwd("")
 #######################################################
 
 
