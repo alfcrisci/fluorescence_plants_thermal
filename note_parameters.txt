@@ -1,0 +1,3 @@
+ET0/TR0 = ψE0 = 1 – VJ Efficiency with which a PSII trapped electron is transferred from QA-to PQ
+
+PIABS = (RC/ABS) × [φP0/(1 – φP0)] × [ψE0/(1 – ψE0)] Performance index on absorption basis 
