@@ -1,6 +1,6 @@
 library(magick)
 
-setwd("C:\\aaa_lavori\\lav_campionamenti\\results")
+setwd("results")
 
 alloro_files=dir(pattern="alloro")
 artemisia_files=dir(pattern="artemisia")
